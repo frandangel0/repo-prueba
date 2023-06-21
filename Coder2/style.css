@@ -9,7 +9,7 @@ html {
   font-size: 62.5%; /* Modificación del porcentaje root de la fuente para facilitar el uso de rem */
 }
 body {
-  background-image: url(/Imagenes/fondo\ pagina.png); /*Imagen de fondo para el sitio*/
+  background-image: url(/Coder2/Imagenes/fondo\ pagina.png); /*Imagen de fondo para el sitio*/
   background-size: cover; /*Permite que la imagen cubra toda la pantalla*/
   background-position: center;
   height: 100vh;
